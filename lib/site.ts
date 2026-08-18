@@ -6,8 +6,8 @@ export const site = {
   /** [TODO] 本番の受信用メール。未設定（空文字）の間は予約ボタンが Instagram DM に切り替わります。 */
   email: "",
   url: "https://yamato-bjj.vercel.app", // Vercel の既定ドメイン。独自ドメイン取得後に差し替え
-  instagram: "https://www.instagram.com/japaneseflash/",
-  instagramHandle: "@japaneseflash",
+  instagram: "https://www.instagram.com/advantage_yamatobjj/",
+　instagramHandle: "@advantage_yamatobjj",
   address: { street: "5680 Hastings St", city: "Burnaby", region: "BC", postal: "V5B 1R4", country: "CA" },
   classDays: [1, 3],                    // 月=1, 水=3
   classStart: { h: 20, m: 30 },
