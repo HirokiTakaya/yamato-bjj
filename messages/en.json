@@ -1,0 +1,347 @@
+{
+  "Meta": {
+    "title": "Advantage and Yamato Brazilian Jiu-Jitsu · North Burnaby",
+    "description": "Beginner-friendly No-Gi Brazilian Jiu-Jitsu in North Burnaby, BC. First class free. Black-belt instruction in English with Japanese support. Mondays & Wednesdays 8:30 PM on Hastings St, Burnaby.",
+    "ogTitle": "Advantage and Yamato Brazilian Jiu-Jitsu · North Burnaby",
+    "ogDesc": "Beginner-friendly No-Gi Brazilian Jiu-Jitsu. Your first class is free. English with Japanese support."
+  },
+  "Nav": {
+    "academy": "The Academy",
+    "firstday": "First Day",
+    "training": "Training",
+    "schedule": "Schedule",
+    "pricing": "Pricing",
+    "instructor": "Instructor",
+    "faq": "FAQ",
+    "visit": "Visit",
+    "freeTrial": "Free Trial"
+  },
+  "Hero": {
+    "eyebrow": "Independent · North Burnaby",
+    "l1": "Advantage & Yamato.",
+    "l2": "No-gi, taught the <em>right</em> way.",
+    "lead": "A beginner-friendly No-Gi Brazilian Jiu-Jitsu academy in North Burnaby. No experience, no gi, no pressure — just safe, friendly training led by a black belt. English with Japanese support.",
+    "cta1": "Book a free class",
+    "cta2": "See class times",
+    "scroll": "Scroll",
+    "kanji": ""
+  },
+  "Belt": {
+    "items": [
+      "Jiu-Jitsu",
+      "First Class Free",
+      "Beginners Welcome",
+      "No-Gi Only",
+      "Black-Belt Led",
+      "Self-Defense",
+      "North Burnaby",
+      "English & Japanese"
+    ]
+  },
+  "About": {
+    "no": "01",
+    "eyebrow": "The Academy",
+    "mark": "",
+    "h1": "An independent academy,",
+    "h2": "run by the person who teaches it.",
+    "p1": "<em>Yamato</em> is the ancient name for Japan — and the spirit this academy is built on. This isn't a franchise, but a friendly, focused No-Gi Brazilian Jiu-Jitsu class with regular members already on the mat, led by the instructor who trains right alongside you.",
+    "p2": "Whether you want fitness, self-defense, or simply to try something new, you'll learn step-by-step in a safe, welcoming environment. <strong>Complete beginners aren't just allowed — they're who this is built for.</strong>",
+    "s1": "Years on the mat",
+    "s2": "Black-belt-led",
+    "s3": "Specialist class",
+    "s3v": "No-Gi",
+    "s4": "First class, always",
+    "s4v": "Free"
+  },
+  "Train": {
+    "no": "02",
+    "eyebrow": "What You'll Train",
+    "h1": "Start from zero.",
+    "h2": "Learn the right way.",
+    "sub": "No experience needed. Every class builds the fundamentals that keep you safe and help you improve.",
+    "items": [
+      {
+        "t": "Body Movement",
+        "jp": "",
+        "mark": "",
+        "d": "The foundational movements that make every technique actually work."
+      },
+      {
+        "t": "Simple No-Gi Technique",
+        "jp": "",
+        "mark": "",
+        "d": "Clear, beginner-friendly techniques you can use from your very first day."
+      },
+      {
+        "t": "Safe Partner Drills",
+        "jp": "",
+        "mark": "",
+        "d": "Controlled, cooperative drilling so you learn without getting hurt."
+      },
+      {
+        "t": "Grappling Concepts",
+        "jp": "",
+        "mark": "",
+        "d": "The why behind the how — the concepts that tie everything together."
+      },
+      {
+        "t": "Train Respectfully",
+        "jp": "",
+        "mark": "",
+        "d": "How to train safely, with control and respect for your partner."
+      },
+      {
+        "t": "Live Rounds",
+        "jp": "",
+        "mark": "",
+        "d": "When you're ready, put it together with friendly, controlled live training."
+      }
+    ]
+  },
+  "Who": {
+    "no": "03",
+    "eyebrow": "Who It's For",
+    "h1": "If any of these sound like you,",
+    "h2": "you belong here.",
+    "items": [
+      "Complete beginners",
+      "First time trying jiu-jitsu",
+      "Interested in self-defense",
+      "Looking for a new way to stay fit",
+      "Want a friendly martial arts community",
+      "Curious about No-Gi grappling"
+    ]
+  },
+  "Philosophy": {
+    "eyebrow": "Our Philosophy",
+    "kanji": "",
+    "maxim": "The gentle overcomes the hard.",
+    "romaji": "Jū yoku gō o seisu",
+    "tr": "Technique and timing — not strength or size — are the heart of jiu-jitsu. That principle is exactly how we teach: patient, precise, and open to everyone."
+  },
+  "Schedule": {
+    "no": "04",
+    "eyebrow": "Class Times",
+    "h1": "When to train.",
+    "mark": "",
+    "sub": "Regular members already train here, so the mat is busier than any RSVP list suggests. More class times are being added — message us for the full schedule.",
+    "open": "Open classes · newcomers welcome",
+    "mon": "Monday",
+    "wed": "Wednesday",
+    "time": "8:30 – 9:30 PM",
+    "name": "No-Gi · Beginner-Friendly",
+    "next": "Next",
+    "cd": "Next class in",
+    "cdLive": "Right now",
+    "cdLiveV": "Class in session",
+    "reserve": "Reserve your spot",
+    "moreL": "More times coming soon",
+    "moreT": "Additional No-Gi classes are being scheduled. Follow on Instagram for updates.",
+    "note": "Bring comfortable athletic clothes (rashguard, tee, shorts, or leggings). No gi required."
+  },
+  "FirstDay": {
+    "no": "05",
+    "eyebrow": "Your First Day",
+    "h1": "Nervous? Here's exactly",
+    "h2": "what happens.",
+    "sub": "Walking into a martial arts gym for the first time is the hardest part. So there are no surprises — this is your first hour, start to finish.",
+    "note": "The first class is free — including the one where you only watch.",
+    "steps": [
+      {
+        "n": "1",
+        "time": "10 min before",
+        "t": "Just walk in",
+        "d": "No paperwork, no sales pitch. Come in athletic clothes, find Hiroki, and say hi. That's the whole check-in."
+      },
+      {
+        "n": "2",
+        "time": "8:30",
+        "t": "Warm up together",
+        "d": "Light movement to get your body ready. Go at your own pace — nobody is watching or judging you."
+      },
+      {
+        "n": "3",
+        "time": "8:45",
+        "t": "Learn 2–3 techniques",
+        "d": "Hiroki demonstrates slowly, then you practice with a partner who already knows the drill. Questions are welcome."
+      },
+      {
+        "n": "4",
+        "time": "9:10",
+        "t": "Watch or join",
+        "d": "Live training happens at the end. On day one you're free to sit it out and watch — most beginners do, and that's completely normal."
+      },
+      {
+        "n": "5",
+        "time": "9:30",
+        "t": "Bow out, ask anything",
+        "d": "Class ends with a bow. Stay a few minutes to ask about anything — technique, schedules, or whether this is right for you."
+      },
+      {
+        "n": "6",
+        "time": "After",
+        "t": "Decide later",
+        "d": "No one will chase you for a signup. Take your time, and come back when you're ready."
+      }
+    ]
+  },
+  "Pricing": {
+    "no": "06",
+    "eyebrow": "Pricing & Membership",
+    "h1": "Simple, honest pricing.",
+    "mark": "",
+    "sub": "Your first class is always free. No sign-up fee, no long contract.",
+    "studentNote": "Student pricing requires a valid student ID.",
+    "tiers": [
+      {
+        "n": "First Trial",
+        "p": "Free",
+        "u": "",
+        "tag": "",
+        "feat": false,
+        "items": [
+          "Your first class, on us",
+          "No experience needed",
+          "No gi required — just athletic wear"
+        ],
+        "cta": "Book free trial"
+      },
+      {
+        "n": "Monthly Membership",
+        "p": "$125",
+        "u": "/ mo",
+        "tag": "Best value",
+        "feat": true,
+        "items": [
+          "Regular No-Gi classes",
+          "Train with the regular members",
+          "Student rate: $100 / month",
+          "Recommended for steady progress"
+        ],
+        "cta": "Become a member"
+      },
+      {
+        "n": "Drop-In",
+        "p": "$30",
+        "u": "/ class",
+        "tag": "",
+        "feat": false,
+        "items": [
+          "Any single class after your trial",
+          "Visitors & travellers welcome",
+          "Student rate: $20 / class"
+        ],
+        "cta": "Drop in"
+      }
+    ],
+    "plTitle": "Private Lessons",
+    "plSub": "One-on-one coaching, tailored entirely to your goals.",
+    "plMember": "Members / hr",
+    "plNon": "Non-members / hr",
+    "plCta": "Enquire"
+  },
+  "Instructor": {
+    "no": "07",
+    "role": "Owner · Head Instructor",
+    "name": "Hiroki Takaya",
+    "p1": "A Brazilian Jiu-Jitsu black belt from Kanagawa, Japan — where he first stepped onto the mats. Martial arts have been part of his life since childhood: he trained judo, kickboxing and Brazilian Jiu-Jitsu in Japan, and it was jiu-jitsu that captured him completely.",
+    "p2": "He discovered how rewarding it is to teach while still a university student in Japan, and went on to teach Japanese students for seven years — he holds a teaching credential in Japan for middle school and high school. Developing strong competitors interests him, but what drives him more is simply this: he wants as many people as possible to discover how fascinating Brazilian Jiu-Jitsu really is.",
+    "alt": "Hiroki Takaya — Brazilian Jiu-Jitsu black belt"
+  },
+  "FAQ": {
+    "no": "08",
+    "eyebrow": "Common Questions",
+    "h1": "The things people worry about.",
+    "items": [
+      {
+        "q": "I'm not fit at all. Is that a problem?",
+        "a": "Not at all — most people start jiu-jitsu to get in shape, not the other way around. You set your own pace, and you can rest whenever you need to."
+      },
+      {
+        "q": "Will I get hurt?",
+        "a": "Safety is the first thing taught here. Beginners drill with control and cooperation, never competitively. You are always allowed to stop, and tapping early is respected, not judged."
+      },
+      {
+        "q": "Do I need a gi or any gear?",
+        "a": "No. This is a No-Gi class — just wear a rashguard or t-shirt and shorts or leggings. Bring water and a towel."
+      },
+      {
+        "q": "I'm not young anymore. Am I too old?",
+        "a": "No. Adults start jiu-jitsu in their 30s, 40s and 50s all the time. Technique and timing matter far more than youth or athleticism."
+      },
+      {
+        "q": "Do I need to bring a partner?",
+        "a": "Come alone. Regular members train here every class and will happily partner with you — being the new person is how everyone started."
+      },
+      {
+        "q": "My English isn't strong. Is that okay?",
+        "a": "Completely fine. Class is taught in English, and Hiroki is a native Japanese speaker — ask him anything in Japanese, any time."
+      }
+    ]
+  },
+  "Contact": {
+    "no": "09",
+    "eyebrow": "Visit Us",
+    "h1": "Come train with us.",
+    "sub": "Your first class is free. Drop in, watch, or step on the mat — no pressure.",
+    "badgeK": "The Academy",
+    "badgeT": "Advantage and Yamato Brazilian Jiu-Jitsu",
+    "badgeP": "Our mats are inside a full fitness facility on Hastings St, with change rooms, showers and parking. You train jiu-jitsu in a proper gym, not a back room.",
+    "mapTag": "5680 Hastings St · Burnaby",
+    "hoursK": "Class Times",
+    "hoursV": "Mon & Wed · 8:30–9:30 PM",
+    "hoursS": "More times being added",
+    "locK": "Location",
+    "locV": "5680 Hastings St",
+    "locS": "Burnaby, BC V5B 1R4",
+    "igK": "Instagram",
+    "bringH": "What to bring",
+    "bring": [
+      "Comfortable athletic wear",
+      "Water",
+      "A towel",
+      "A positive attitude"
+    ],
+    "bringNote": "Please remove watches, rings, and necklaces, and avoid clothing with zippers or metal parts."
+  },
+  "Form": {
+    "title": "Book your free first class",
+    "sub": "Fill this in and your email opens ready to send. We'll reply with everything you need.",
+    "name": "Your name",
+    "dayL": "Which class?",
+    "mon": "Monday",
+    "wed": "Wednesday",
+    "either": "Either",
+    "monV": "Monday 8:30 PM",
+    "wedV": "Wednesday 8:30 PM",
+    "eitherV": "Either day",
+    "expL": "Your experience",
+    "e1": "Total beginner",
+    "e2": "A little",
+    "e3": "Experienced",
+    "e1V": "Complete beginner",
+    "e2V": "A little experience",
+    "e3V": "Experienced grappler",
+    "msgL": "Anything to add? (optional)",
+    "submit": "Open my email",
+    "note": "Prefer Instagram? DM @japaneseflash anytime.",
+    "mailSubject": "Booking a free trial class",
+    "mailGreeting": "Hi Hiroki,",
+    "mailIntro": "I'd like to come to a free trial class.",
+    "mailName": "Name",
+    "mailDay": "Preferred class",
+    "mailExp": "Experience",
+    "mailNotes": "Notes",
+    "mailClose": "Thanks!",
+    "mailBlank": "(not given)",
+    "submitIg": "Message us on Instagram"
+  },
+  "Footer": {
+    "word": "YAMATO",
+    "tagline": "A beginner-friendly No-Gi Brazilian Jiu-Jitsu academy in North Burnaby, BC. English with Japanese support.",
+    "colTrain": "Train",
+    "colAcademy": "Academy",
+    "rights": "Taught by Hiroki Takaya.",
+    "rakkan": ""
+  }
+}
