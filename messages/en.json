@@ -306,7 +306,7 @@
   },
   "Form": {
     "title": "Book your free first class",
-    "sub": "Fill this in and your email opens ready to send. We'll reply with everything you need.",
+    "sub": "Send this and we'll reply with everything you need for your first class.",
     "name": "Your name",
     "dayL": "Which class?",
     "mon": "Monday",
@@ -334,7 +334,15 @@
     "mailNotes": "Notes",
     "mailClose": "Thanks!",
     "mailBlank": "(not given)",
-    "submitIg": "Message us on Instagram"
+    "submitIg": "Message us on Instagram",
+    "email": "Your email",
+    "send": "Send booking request",
+    "sending": "Sending…",
+    "subIg": "Fill this in and your email opens ready to send. We'll reply with everything you need.",
+    "okTitle": "Request sent",
+    "okBody": "Thanks! We'll reply shortly with everything you need for your first class. See you on the mats.",
+    "errBody": "Something went wrong sending that. Please reach us directly:",
+    "mailEmail": "Email"
   },
   "Footer": {
     "word": "YAMATO",

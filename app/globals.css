@@ -353,6 +353,16 @@
   .chip.on{background:var(--shu);border-color:var(--shu);color:#fff;font-weight:600}
   .bform .btn{width:100%;justify-content:center;margin-top:6px}
   .bnote{margin-top:14px;font-size:.78rem;color:var(--muted);text-align:center}
+  .bform .btn:disabled{opacity:.45;cursor:not-allowed;transform:none!important;box-shadow:none}
+  .bform .btn:disabled::after{display:none}
+  .hp{position:absolute!important;left:-9999px!important;width:1px!important;height:1px!important;opacity:0!important;pointer-events:none}
+  .bmsg{margin-top:14px;font-size:.86rem;line-height:1.6}
+  .bmsg.err{color:var(--shu);border-left:2px solid var(--shu);padding-left:12px}
+  .bmsg a{border-bottom:1px solid currentColor}
+  .bdone{text-align:center;padding:26px 8px}
+  .bdone-mark{display:inline-flex;align-items:center;justify-content:center;width:52px;height:52px;background:var(--shu);color:#fff;font-family:"Noto Serif JP",serif;font-weight:800;font-size:1.5rem;border-radius:8px;margin-bottom:18px}
+  .bdone h3{font-family:"Noto Serif Display","Noto Serif JP",serif;font-size:1.3rem;margin-bottom:.5em}
+  .bdone p{color:var(--bone-dim);font-size:.95rem;max-width:34em;margin:0 auto}
 
   footer{background:var(--bg-2);border-top:1px solid var(--line);padding:80px 0 42px;position:relative;z-index:2;overflow:hidden}
   .foot-word{font-family:"Noto Serif Display","Noto Serif JP",serif;font-weight:600;font-size:clamp(3rem,10vw,8.6rem);line-height:.9;letter-spacing:-.02em;color:transparent;-webkit-text-stroke:1px rgba(27,26,30,.12);user-select:none;white-space:nowrap;margin-bottom:64px}
