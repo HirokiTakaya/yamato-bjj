@@ -222,14 +222,14 @@
       },
       {
         "n": "Drop-In",
-        "p": "$30",
+        "p": "$40",
         "u": "/ class",
         "tag": "",
         "feat": false,
         "items": [
           "Any single class after your trial",
           "Visitors & travellers welcome",
-          "Student rate: $20 / class"
+          "Same flat rate for everyone"
         ],
         "cta": "Drop in"
       }

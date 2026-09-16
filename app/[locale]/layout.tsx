@@ -63,7 +63,7 @@ export default async function LocaleLayout({
     sameAs: [site.instagram],
     makesOffer: [
       { "@type": "Offer", name: "Monthly Membership", price: "125", priceCurrency: "CAD" },
-      { "@type": "Offer", name: "Drop-In", price: "30", priceCurrency: "CAD" },
+      { "@type": "Offer", name: "Drop-In", price: "40", priceCurrency: "CAD" },
       { "@type": "Offer", name: "Private Lesson (member)", price: "120", priceCurrency: "CAD" },
       { "@type": "Offer", name: "Private Lesson (non-member)", price: "150", priceCurrency: "CAD" },
     ],
@@ -72,6 +72,11 @@ export default async function LocaleLayout({
   return (
     <html lang={locale} className={locale === "ja" ? "lang-ja" : undefined}>
       <head>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: "document.documentElement.classList.add('js')",
+          }}
+        />
         <meta name="color-scheme" content="only light" />
         <meta name="theme-color" content="#faf6ee" />
         <link rel="preconnect" href="https://fonts.googleapis.com" />
