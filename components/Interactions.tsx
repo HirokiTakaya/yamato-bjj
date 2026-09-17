@@ -8,11 +8,14 @@ export default function Interactions() {
     const fine = window.matchMedia("(pointer: fine)").matches;
     const cleanups: Array<() => void> = [];
 
+    // ハイドレーション成功を通知（layout の保険タイマーを無効化する）
+    (window as unknown as { __ayReady?: boolean }).__ayReady = true;
+    document.documentElement.dataset.ready = "";
+
     // intro
     const intro = document.getElementById("intro");
     const t = window.setTimeout(() => {
       intro?.classList.add("done");
-      document.body.classList.add("ready");
     }, reduce ? 0 : 1800);
     cleanups.push(() => clearTimeout(t));
 

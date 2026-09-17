@@ -74,7 +74,11 @@ export default async function LocaleLayout({
       <head>
         <script
           dangerouslySetInnerHTML={{
-            __html: "document.documentElement.classList.add('js')",
+            __html:
+              // data 属性にする（React は className を管理するため class だと上書きで消える）。
+              // 3秒経ってもハイドレーションが完了しなければフラグを外し、必ず本文を表示する。
+              "var d=document.documentElement;d.setAttribute('data-js','');" +
+              "setTimeout(function(){if(!window.__ayReady){d.removeAttribute('data-js')}},3000)",
           }}
         />
         <meta name="color-scheme" content="only light" />
